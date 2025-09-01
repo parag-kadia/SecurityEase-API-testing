@@ -1,1 +1,1 @@
-# SecurityEase-API-testing
+# SecuritiEase-API-testing
